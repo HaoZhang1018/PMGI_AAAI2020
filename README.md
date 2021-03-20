@@ -5,10 +5,13 @@ The all dataset can be found at https://drive.google.com/file/d/1acad2moPxvSVNCy
 
 If this work is helpful to you, please cite it as：
 ```
-@inproceedings{zhang2020PMGI,
-title={Rethinking the Image Fusion: A Fast Unified Image Fusion Network based on Proportional Maintenance of Gradient and Intensity},
-author={Zhang, Hao and Xu, Han and Xiao, Yang and Guo, Xiaojie and Ma, Jiayi},
-booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-year={2020}
+@inproceedings{zhang2020rethinking,
+  title={Rethinking the image fusion: A fast unified image fusion network based on proportional maintenance of gradient and intensity},
+  author={Zhang, Hao and Xu, Han and Xiao, Yang and Guo, Xiaojie and Ma, Jiayi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={07},
+  pages={12797--12804},
+  year={2020}
 }
 ```
